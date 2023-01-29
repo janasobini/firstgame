@@ -1,2 +1,2 @@
 # firstgame
-First Python Project
+This is my first Python project
